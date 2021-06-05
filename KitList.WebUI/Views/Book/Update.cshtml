@@ -1,0 +1,40 @@
+﻿@model KitList.WebUI.Models.BookViewModel
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="border-style:outset;background-color:#f2f2f2;margin-bottom:10px;">
+    <h3>Update Book</h3>
+
+    <hr />
+    <form asp-controller="Book" asp-action="Update" method="post">
+        <div class="form-group">
+            <label asp-for="book.Title" class="control-label" style="font-weight:bold;"></label>
+            <input asp-for="book.Title" class="form-control" placeholder="Title" />
+            <span asp-validation-for="book.Title" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="book.Author" class="control-label" style="font-weight:bold;"></label>
+            <input asp-for="book.Author" class="form-control" placeholder="Author" />
+            <span asp-validation-for="book.Author" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="book.PublishYear" class="control-label" style="font-weight:bold;"></label>
+            <input asp-for="book.PublishYear" class="form-control" placeholder="Publish Year" />
+            <span asp-validation-for="book.PublishYear" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="book.Price" class="control-label" style="font-weight:bold;"></label>
+            <input asp-for="book.Price" class="form-control" placeholder="Price" />
+            <span asp-validation-for="book.Price" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="hidden" asp-for="book.Id" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Update" class="btn btn-info btn-block" />
+        </div>
+    </form>
+</div>

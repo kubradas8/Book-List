@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KitList.Core\KitList.Core.csproj" />
+    <ProjectReference Include="..\KitList.DataAccess\KitList.DataAccess.csproj" />
+    <ProjectReference Include="..\KitList.Entities\KitList.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

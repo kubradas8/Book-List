@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\bin\Debug\netcoreapp2.1\KitList.Core.deps.json
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\bin\Debug\netcoreapp2.1\KitList.Core.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\obj\Debug\netcoreapp2.1\KitList.Core.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\obj\Debug\netcoreapp2.1\KitList.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\obj\Debug\netcoreapp2.1\KitList.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\obj\Debug\netcoreapp2.1\KitList.Core.AssemblyInfo.cs
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\bin\Debug\netcoreapp2.1\KitList.Core.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\obj\Debug\netcoreapp2.1\KitList.Core.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Core\obj\Debug\netcoreapp2.1\KitList.Core.pdb

@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\bin\Debug\netcoreapp2.1\KitList.Entities.deps.json
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\bin\Debug\netcoreapp2.1\KitList.Entities.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\bin\Debug\netcoreapp2.1\KitList.Entities.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\bin\Debug\netcoreapp2.1\KitList.Core.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\bin\Debug\netcoreapp2.1\KitList.Core.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\obj\Debug\netcoreapp2.1\KitList.Entities.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\obj\Debug\netcoreapp2.1\KitList.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\obj\Debug\netcoreapp2.1\KitList.Entities.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\obj\Debug\netcoreapp2.1\KitList.Entities.AssemblyInfo.cs
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\obj\Debug\netcoreapp2.1\KitList.Entities.csproj.CopyComplete
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\obj\Debug\netcoreapp2.1\KitList.Entities.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Entities\obj\Debug\netcoreapp2.1\KitList.Entities.pdb

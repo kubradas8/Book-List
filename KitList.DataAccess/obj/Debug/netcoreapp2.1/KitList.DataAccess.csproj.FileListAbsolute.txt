@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.Core.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.Entities.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\obj\Debug\netcoreapp2.1\KitList.DataAccess.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\obj\Debug\netcoreapp2.1\KitList.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\obj\Debug\netcoreapp2.1\KitList.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\obj\Debug\netcoreapp2.1\KitList.DataAccess.AssemblyInfo.cs
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.DataAccess.deps.json
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.DataAccess.runtimeconfig.json
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.DataAccess.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.DataAccess.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.DataAccess.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.Core.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\bin\Debug\netcoreapp2.1\KitList.Entities.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\obj\Debug\netcoreapp2.1\KitList.DataAccess.csproj.CopyComplete
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\obj\Debug\netcoreapp2.1\KitList.DataAccess.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.DataAccess\obj\Debug\netcoreapp2.1\KitList.DataAccess.pdb

@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.Business.deps.json
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.Business.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.Business.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.Core.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.DataAccess.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.Entities.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.Core.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.DataAccess.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\bin\Debug\netcoreapp2.1\KitList.Entities.pdb
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\obj\Debug\netcoreapp2.1\KitList.Business.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\obj\Debug\netcoreapp2.1\KitList.Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\obj\Debug\netcoreapp2.1\KitList.Business.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\obj\Debug\netcoreapp2.1\KitList.Business.AssemblyInfo.cs
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\obj\Debug\netcoreapp2.1\KitList.Business.csproj.CopyComplete
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\obj\Debug\netcoreapp2.1\KitList.Business.dll
+C:\Users\Asus\source\repos\KitListCore\KitList.Business\obj\Debug\netcoreapp2.1\KitList.Business.pdb
